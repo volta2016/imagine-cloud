@@ -15,6 +15,7 @@ Leading a team of 3 members in the complete migration of an application that opt
 - **Containers and Automation**: Implemented Docker and Cloud Build to manage automated deployments.
 - **Frontend Deployment**: Set up Continuous Delivery in Render for an application built with Angular and Ionic.
 - **Performance Testing**: Conducted stress tests with JMeter, ensuring stability with 500 concurrent users.
+- **Documentation**: Created a document explaining the step-by-step process for running pipelines, configuring Cloud SQL, and setting up artifacts in Cloud Run under the "instance" section. Also documented the jobs for starting and stopping the instance.
 
 ---
 
@@ -65,3 +66,15 @@ During this preparation phase, I focused on understanding the core concepts of G
 ## Connect to a vpc
 
 ![connect-to-a-vpc](assets/images/connect-to-a-vpc.jpg)
+
+## Cloud Run
+
+![connect-to-a-vpc](assets/images/cloud-run.jpg)
+
+## Artifacts
+
+![connect-to-a-vpc](assets/images/artifact.jpg)
+
+## Jobs
+
+![connect-to-a-vpc](assets/images/jobs.jpg)
