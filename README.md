@@ -78,3 +78,7 @@ During this preparation phase, I focused on understanding the core concepts of G
 ## Jobs
 
 ![connect-to-a-vpc](assets/images/jobs.jpg)
+
+### **Application Flow Video**
+
+[![Application Flow](https://img.youtube.com/vi/SnuvCEUsqLY/0.jpg)](https://youtu.be/SnuvCEUsqLY)
